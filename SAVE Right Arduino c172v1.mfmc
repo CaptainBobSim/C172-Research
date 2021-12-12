@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleName>Right Arduino</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <Servo Name="Vertical Speed" DataPin="2" />
+  <Servo Name="Tachometer" DataPin="3" />
+  <Servo Name="Bank" DataPin="4" />
+  <Servo Name="Airspeed" DataPin="5" />
+  <Servo Name="Pitch" DataPin="6" />
+  <Stepper Name="Altimeter" Pin1="30" Pin2="31" Pin3="32" Pin4="33" BtnPin="0" />
+  <Stepper Name="Heading" Pin1="26" Pin2="27" Pin3="28" Pin4="29" BtnPin="0" />
+  <Servo Name="Turn BALL" DataPin="8" />
+  <Servo Name="Turn AIRPLANE" DataPin="9" />
+</Config>

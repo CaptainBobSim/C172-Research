@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleName>Cessna Right</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <Servo Name="Airspeed" DataPin="2" />
+  <Servo Name="Attitude Bank" DataPin="3" />
+  <Servo Name="Attitude Roll" DataPin="4" />
+  <Servo Name="VSI" DataPin="5" />
+  <Servo Name="RPM" DataPin="6" />
+  <Stepper Name="Altimeter" Pin1="26" Pin2="27" Pin3="28" Pin4="29" BtnPin="0" />
+  <Stepper Name="HDG" Pin1="22" Pin2="23" Pin3="24" Pin4="25" BtnPin="0" />
+  <Output Name="Output" Pin="13" />
+  <Button Name="Yowza" Pin="7" />
+  <Output Name="Output 1" Pin="8" />
+</Config>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleName>Left Arduino</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <Servo Name="Fuel Flow" DataPin="9" />
+  <Servo Name="Fuel Right" DataPin="7" />
+  <Servo Name="Fuel Left" DataPin="6" />
+  <Servo Name="Vaccum" DataPin="12" />
+  <Servo Name="Amp" DataPin="13" />
+  <Servo Name="Oil Temperature" DataPin="10" />
+  <Servo Name="Oil Pressure" DataPin="11" />
+  <Servo Name="EGT" DataPin="8" />
+  <Button Name="Becon" Pin="46" />
+  <Button Name="Taxi Lights" Pin="48" />
+  <Button Name="Pitot Heat" Pin="53" />
+  <Button Name="Landing Lights" Pin="24" />
+  <Button Name="Strobe Light" Pin="50" />
+  <Button Name="Navigation Light" Pin="51" />
+  <Button Name="Avionics Master" Pin="52" />
+  <Button Name="Alt Master" Pin="43" />
+  <Button Name="Bat Master" Pin="42" />
+  <Button Name="Fuel Pump" Pin="23" />
+</Config>
