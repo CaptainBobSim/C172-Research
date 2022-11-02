@@ -1,3 +1,0 @@
-Material type: ABS
-Material dimensions: 304.79999999999995 mm x 203.2 mm x 3.1499999999999995 mm
-Bit: 0.1 mm, other-flat
