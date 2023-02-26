@@ -1,0 +1,5 @@
+Not MSFS Audio Panel: KMA 26 TSO 
+Bendix ADF: KR 87
+XPNDR: KT 76C
+Autopilot: KAP 140
+DME: KN 62A
