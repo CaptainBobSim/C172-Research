@@ -1,0 +1,25 @@
+EMERGENCY LOCATOR TRANSMITTER {ELT)
+A remote switch/annunciator is installed on the top center
+location of the copilot's instrument panel for control of the EL T from
+the flight crew station. The annunciator, which is in the center of
+the rocker switch, illuminates when the EL T transmitter is
+transmitting. The EL T emits an omni-directional signal on the
+international distress frequencies of 121.5 MHz and 243.0 MHz.
+General aviation and commercial aircraft, the FAA and CAP monitor
+121.5 MHz, and 243.0 MHz is monitored by the military. For a
+basic overview of the EL T, refer to the Supplements, Section 9.
+
+
+REMOTE SWITCH/ANNUNCIATOR (3-position rocker switch):
+ON -- Remotely activates the transmitter for test or
+emergency situations. Red annunciator in
+center of rocker switch illuminates to indicate
+that the transmitter is transmitting a distress
+signal.
+AUTO -- Arms transmitter for automatic activation if "G"
+switch senses a predetermined deceleration
+level.
+RESET -- Deactivates and rearms transmitter after
+automatic activation by the "G" switch. Red
+annunciator in center of rocker switch should
+extinguish. 

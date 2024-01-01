@@ -1,0 +1,38 @@
+FLIGHT TIME RESET
+Use the SELECT button to select flight time (FT). Hold the
+CONTROL button down for 3 seconds, or until 99:59 appears on
+the display. Flight time will be zeroed upon release of the
+CONTROL button. 
+
+
+SETTING FLIGHT TIME FLASHING ALARM
+Use the SELECT button to select flight time (FT).
+Simultaneously press both the SELECT and the CONTROL buttons
+to enter the set mode. The tens of hours digit will start flashing. The
+set operation is the same as for UT. When actual flight time equals
+the alarm time, the display will flash. Pressing either the SELECT or
+CONTROL button will turn the flashing off and zero the alarm time.
+Flight time is unchanged and continues counting. 
+
+
+SETTING ELAPSED TIME COUNT UP
+Use the SELECT button to select elapsed time (ET). Press the
+CONTROL button and elapsed time will start counting. Elapsed time
+counts up to 59 minutes, 59 seconds, and then switches to hours
+and minutes. It continues counting up to 99 hours and 59 minutes.
+Pressing the CONTROL button again resets elapsed time to zero.
+SETTING ELAPSED TIME COUNT DOWN
+Use the SELECT button to select Elapsed Time (ET).
+Simultaneously press both the SELECT and the CONTROL buttons
+to enter the set mode. The tens of hours digit will start flashing. The
+set operation is the same as for UT, and a count down time can be
+set from a maximum of 59 minutes and 59 seconds. Once the last
+digit is set, pressing the SELECT button exits the set mode and the
+clock is ready to start the countdown. Pressing the CONTROL
+button now will start the countdown. When countdown reaches zero,
+the display will flash. Pressing either the SELECT or CONTROL
+button will reset the alarm. After reaching zero, the elapsed time
+counter will count up.
+Button Select Disable
+When there is no airplane power applied to the unit, the
+CONTROL and SELECT buttons are disabled. 
