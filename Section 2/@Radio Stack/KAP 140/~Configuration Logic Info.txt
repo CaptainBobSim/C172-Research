@@ -1,0 +1,259 @@
+A preflight test is performed
+upon power application to the computer. This test is a sequence of
+internal checks that validate proper
+system operation prior to allowing
+autopilot engagement. The preflight
+test (PFT) sequence is indicated by
+“PFT” with an increasing number for
+the sequence steps. Successful
+completion of self test is identified by
+all display segments being illuminated (Display Test) and the disconnect tone sounding.
+
+
+Following the preflight test,
+the red P warning on the face of the
+autopilot may illuminate indicating
+that the pitch axis cannot be
+engaged. This condition should be
+temporary, lasting no more than 30
+seconds. The P will extinguish and
+normal operation will be available.
+
+
+
+1. PITCH AXIS, (P) ANNUNCIATOR
+- When illuminated, indicates failure
+of the pitch axis and will disengage
+the autopilot when the failure occurs
+and not allow engagement of the
+pitch axis.
+2. AUTOPILOT ENGAGE/DISENGAGE (AP) BUTTON - When
+pushed, engages autopilot if all logic
+conditions are met. The autopilot will
+engage in the basic roll (ROL) mode
+which functions as a wing leveler
+and in the vertical speed (VS) hold
+mode. The commanded vertical
+speed is be displayed in the upper
+right corner of autopilot display area
+for three seconds after engagement
+or if either the UP or DN button is
+pressed. The captured VS will be the
+vertical speed present at the
+moment of AP button press. When
+pressed again, will disengage the
+autopilot. For software version 03/01
+and later, the AP button must be
+pressed and held for 0.25 seconds
+to engage the autopilot.
+3. ROLL AXIS (R) ANNUNCIATOR
+- When illuminated, indicates failure
+of the roll axis and will disengage the
+autopilot and not allow engagement.
+4. HEADING (HDG) MODE SELECTOR BUTTON - When pushed, will
+arm the Heading mode, which commands the airplane to turn to and
+maintain the heading selected by the
+heading bug on either the DG or
+HSI. A new heading may be
+selected at any time and will result in
+the airplane turning to the new heading. Button can also be used to toggle between HDG and ROL modes.
+This button will engage the autopilot
+in units with software prior to software version 03/01.
+
+5. NAVIGATION (NAV) MODE
+SELECTOR BUTTON - When
+pushed, will arm the navigation
+mode. The mode provides automatic
+beam capture and tracking of VOR,
+LOC or GPS as selected for presentation on the HSI or CDI. NAV mode
+is recommended for enroute navigation tracking. NAV mode may also
+be used for front course LOC tracking when GS tracking is not desired.
+6. APPROACH (APR) MODE
+SELECTOR BUTTON - When
+pushed, will arm the Approach
+mode. This mode provides automatic beam capture and tracking of
+VOR, GPS, LOC, and Glideslope
+(GS) on an ILS, as selected for presentation on the HSI or CDI. APR
+mode is recommended for instrument approaches.
+7. BACK COURSE APPROACH
+(REV) MODE SELECTOR BUTTON
+- When pushed, will arm the Back
+Course approach mode. This mode
+functions similarly to the approach
+mode except that the autopilot
+response to LOC signals is
+reversed, and GS is disabled.
+8. ALTITUDE HOLD (ALT) MODE
+SELECT BUTTON - When pushed,
+will select the Altitude Hold mode.
+This mode provides tracking of the
+reference altitude. The reference altitude is the altitude at the moment
+the ALT button is pressed. If the ALT
+button is pressed with an established
+VS rate present, there will be altitude
+overshoot (approximately 10% of the
+VS rate), with the airplane returned
+positively to the reference altitude.
+This button will engage the autopilot
+in units with software prior to software version 03/01.
+9. VERTICAL TRIM (UP/DN) BUTTONS - The action of these buttons
+is dependent upon the vertical mode
+present when pressed. If VS mode is
+active, the initial button stroke will
+bring up the commanded vertical
+speed in the display. Subsequent
+immediate button strokes will increment the vertical speed commanded
+either up or down at the rate of 100
+ft/min per button press, or at the rate
+of approximately 300 ft/min per second if held continuously. If ALT
+mode is active, incremental button
+strokes will move the altitude hold
+reference altitude either up or down
+at 20 feet per press, or if held continuously will command the airplane up
+or down at the rate of 500 ft/min,
+synchronizing the altitude hold reference to the actual airplane altitude
+upon button release.
+(Note that the altitude hold reference
+is not displayed. The display will
+continue to show the altitude alerter
+reference.)
+10. ROTARY KNOBS - Used to set
+the altitude alerter reference altitude;
+or may be used immediately after
+pressing the BARO button, to adjust
+the autopilot baro setting to match
+that of the airplane’s altimeter when
+manual adjustment is required. (In
+some installations the baro setting is
+automatically synced to that of the
+altimeter.)
+11. BARO SET (BARO) BUTTON -
+When pushed and released, will
+change the display from the altitude
+alerter selected altitude to the baro
+setting display (either IN HG or HPA)
+for 3 seconds. If pushed and held for
+2 seconds, will change the baro setting display from IN HG to HPA or
+vice versa. Once the baro setting
+display is visible the rotary knobs
+may be used to manually adjust the
+baro setting if automatic baro correction is not available.
+12. ALTITUDE ARM (ARM) BUTTON - When pushed will toggle altitude arming on or off. When ALT
+ARM is annunciated, the autopilot
+will capture the altitude alerter displayed altitude (provided the aircraft
+is climbing or descending in VS to
+the displayed altitude). When the
+autopilot is engaged, ALT arming is
+automatic upon altitude alerter altitude selection via the rotary knobs.
+Note that the alerter functions are
+independent of the arming process
+thus providing full time alerting, even
+when the autopilot is disengaged.
+13. ALTITUDE ALERTER/VERTICAL SPEED/BARO SETTING DISPLAY - Normally displays the altitude alerter selected altitude. If the
+UP or DN button is pushed while in
+VS hold, the display changes to the
+command reference for the VS
+mode in FPM for 3 seconds. If the
+BARO button is pushed, the display
+changes to the autopilot baro setting
+in either IN HG or HPA for 3 seconds.
+NOTE: This display may be dashed
+for up to 3 minutes on start up if a
+blind encoder is installed which
+requires a warm up period.
+14. ALTITUDE ALERT (ALERT)
+ANNUNCIATION - The ALERT
+annunciate is illuminated 1000 ft.
+prior to the selected altitude, extinguishes 200 ft. prior to the selected
+altitude and illuminates momentarily
+when the selected altitude is
+reached. Once the selected altitude
+is reached a flashing ALERT illumination signifies that the 200 ft. “safe
+band” has been exceeded and will
+remain illuminated until 1000 ft. from
+the selected altitude. Associated with
+the visual alerting is an aural alert (5
+short tones) which occurs 1000 feet
+from the selected altitude upon
+approaching the altitude and 200
+feet from the selected altitude on
+leaving the altitude.
+15. PITCH TRIM (PT) ANNUNCIATION - A flashing PT with arrows
+indicates the direction of required
+pitch trim. A solid PT without an
+arrow head is an indication of a pitch
+trim fault. During manual electric trim
+operation (autopilot disengaged),
+detection of a stuck MET switch will
+be indicated by a solid PT. When the
+fault is corrected, the annunciation
+will extinguish.
+16. PITCH MODE DISPLAY -
+Displays the active and armed pitch
+modes (VS, ALT, ARM, ALT and
+GS).
+17. ROLL MODE DISPLAY -
+Displays the active and armed roll
+modes (ROL, HDG, NAV ARM,
+NAV, APR ARM, APR, REV ARM,
+REV, GS ARM). Also displayed will
+be flashing AP annunciation (5 seconds) at each autopilot disconnect
+accompanied by an aural tone (for 2
+seconds).
+18. AUTOPILOT ENGAGED (AP)
+ANNUNCIATION - Illuminates whenever the autopilot is engaged.
+Flashes during pilot initiated or automatic disengagement. Only applicable for software versions 03/01 or
+later.
+
+
+
+
+
+
+Note: VS command value will be displayed during Control Wheel
+Steering (CWS) and for three seconds following VS engagement or
+pressing the UP or DN button. Both
+altitude and vertical speed utilize the
+same display area. Altitude is always
+displayed except during vertical
+speed selection. If the VS command
+value is not displayed, pressing (and
+releasing) the UP or DN button will
+not change the indicated altitude reference but will display the VS command value.
+
+
+
+BARO setting - CHECK.
+depressing the BARO button will
+display the baro setting for three
+seconds.
+Upon successful completion of preflight test, the baro display will flash.
+1. BARO setting - Enter barometric setting using the rotary knobs
+OR if correct as displayed, press
+BARO.
+
+
+Baro unit conversion
+The barometric pressure display can
+toggled between IN HG and HPA as
+needed by the pilot.
+1. BARO button - Press and hold
+for two seconds.
+
+
+
+Note: The ALERT annunciation is
+illuminated 1000 ft. prior to the
+selected altitude, extinguishes 200 ft.
+prior to the selected altitude and illuminates momentarily when the
+selected altitude is reached. Once
+the selected altitude is reached, a
+flashing ALERT illumination signifies
+that the 200 ft. “safe band” has been
+exceeded and will remain illuminated
+until 1000 ft. from the selected altitude. 
+
+
+
+
+
