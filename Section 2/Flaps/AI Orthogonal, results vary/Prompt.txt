@@ -1,0 +1,3 @@
+Please correct this image such that the metal piece is oriented as if put on a scanner. The primary objective is to rotate this to be orthogonal. Do not take artistic liberty, simply triangulate positioning.
+
+ignore positioning of handle prioritize having metal plane orthogonal
